@@ -12,7 +12,7 @@ interface Teachable {
     }
 
     static void showTeachingPolicy() {
-        System.out.println("changed by S1 ");
+        System.out.println("changed by S1     ");
     }
 }
 
